@@ -1,0 +1,33 @@
+.jia{
+    width: 100%;
+    background-color: red;
+    height: 600px;
+}
+.xia{
+    float: left;
+    max-width: 724px;
+    max-height:  400px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.xia1 td{
+    float: left;
+    height: 34px;
+    width: 142px;
+    line-height: 34px;
+    text-align: center;
+}
+.xia2 td{
+    float: left;
+    height: 29px;
+    width: 140px;
+    line-height: 31px;
+    text-align: center;
+    color: #414141;
+
+}
+.j2{
+    width: 100%;
+    background-color: chocolate;
+    height: 300px;
+}
